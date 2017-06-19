@@ -1,0 +1,2 @@
+class InsuredItemsController < ApplicationController
+end

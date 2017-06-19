@@ -1,0 +1,2 @@
+module InsuredItemsHelper
+end
